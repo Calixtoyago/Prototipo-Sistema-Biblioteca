@@ -19,7 +19,7 @@ Nele possui as principais funções que uma biblioteca precisa como:
 ## **Clone o repositório:**
 
    ```
-   https://github.com/seu-usuario/Prototipo-Sistema-Biblioteca.git
+   git clone https://github.com/seu-usuario/Prototipo-Sistema-Biblioteca.git
    cd Prototipo-Sistema-Biblioteca
    ```
 

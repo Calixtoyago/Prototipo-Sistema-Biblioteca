@@ -1,0 +1,98 @@
+[
+  {
+    "Titulo": "1984",
+    "Autor": "George Orwell",
+    "Paginas": 416,
+    "Ano": 1949,
+    "ISBN-13": "978-8535909554",
+    "Genero": "Distopia"
+  },
+  {
+    "Titulo": "A Empregada",
+    "Autor": "Freida McFadden",
+    "Paginas": 304,
+    "Ano": 2022,
+    "ISBN-13": "978-6555355318",
+    "Genero": "Suspense Psicol\u00f3gico"
+  },
+  {
+    "Titulo": "A Metamorfose",
+    "Autor": "Franz Kafka",
+    "Paginas": 104,
+    "Ano": 1915,
+    "ISBN-13": "978-8525432186",
+    "Genero": "Distopia"
+  },
+  {
+    "Titulo": "As Cr\u00f4nicas de N\u00e1rnia: O Sobrinho do Mago",
+    "Autor": "C.S. Lewis",
+    "Paginas": 240,
+    "Ano": 1955,
+    "ISBN-13": "978-8578273696",
+    "Genero": "Fantasia"
+  },
+  {
+    "Titulo": "Dom Casmurro",
+    "Autor": "Machado de Assis",
+    "Paginas": 256,
+    "Ano": 1899,
+    "ISBN-13": "978-8571643772",
+    "Genero": "Romance"
+  },
+  {
+    "Titulo": "Dom Quixote",
+    "Autor": "Miguel de Cervantes",
+    "Paginas": 1344,
+    "Ano": 1605,
+    "ISBN-13": "978-8571641990",
+    "Genero": "Cl\u00e1ssicos"
+  },
+  {
+    "Titulo": "Duna",
+    "Autor": "Frank Herbert",
+    "Paginas": 680,
+    "Ano": 1965,
+    "ISBN-13": "978-8576573135",
+    "Genero": "Fic\u00e7\u00e3o Cient\u00edfica"
+  },
+  {
+    "Titulo": "Flores para Algernon",
+    "Autor": "Daniel Keyes",
+    "Paginas": 311,
+    "Ano": 1959,
+    "ISBN-13": "978-8576572005",
+    "Genero": "Fic\u00e7\u00e3o Cient\u00edfica"
+  },
+  {
+    "Titulo": "Morro dos Ventos Uivantes",
+    "Autor": "Emily Bronte",
+    "Paginas": 368,
+    "Ano": 1847,
+    "ISBN-13": "978-8594318237",
+    "Genero": "Cl\u00e1ssicos"
+  },
+  {
+    "Titulo": "O Pequeno Pr\u00edncipe",
+    "Autor": "Antoine de Saint-Exup\u00e9ry",
+    "Paginas": 96,
+    "Ano": 1943,
+    "ISBN-13": "978-8538004119",
+    "Genero": "Infantil"
+  },
+  {
+    "Titulo": "O Senhor dos An\u00e9is",
+    "Autor": "J.R.R. Tolkien",
+    "Paginas": 1200,
+    "Ano": 1954,
+    "ISBN-13": "978-8533613378",
+    "Genero": "Fantasia"
+  },
+  {
+    "Titulo": "Orgulho e Preconceito",
+    "Autor": "Jane Austen",
+    "Paginas": 480,
+    "Ano": 1813,
+    "ISBN-13": "978-8574972572",
+    "Genero": "Romance"
+  }
+]

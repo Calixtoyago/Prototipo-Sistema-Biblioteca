@@ -15,7 +15,8 @@ Nele possui as principais funções que uma biblioteca precisa como:
  - Pegar livros emprestados
 
 
-1. **Clone o repositório:**
+
+## **Clone o repositório:**
 
    ```
    git clone https://github.com/seu-usuario/nome-do-repositorio.git

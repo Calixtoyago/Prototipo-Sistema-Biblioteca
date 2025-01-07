@@ -37,4 +37,4 @@ CREATE TABLE "authors" (
     "id" INTEGER,
     "name" TEXT UNIQUE NOT NULL,
     PRIMARY KEY ("id")
-)
+);
